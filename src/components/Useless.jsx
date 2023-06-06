@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Useless() {
+function Unitech() {
   return (
     <>
      <div className="person_info">
@@ -104,4 +104,4 @@ function Useless() {
   )
 }
 
-export default Useless
+export default Unitech
